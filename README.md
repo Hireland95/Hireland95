@@ -4,7 +4,7 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
 **Languages & Tools** 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,figma,heroku,bootstrap,git,github" />
   </a>
