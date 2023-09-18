@@ -4,7 +4,14 @@ Recent Le Wagon Web-Development graduate looking for a junior developer role ðŸš
 
 **Languages & Tools** 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,figma,heroku,bootstratp,github)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,figma,heroku,bootstrap,git,github)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ruby,rails,figma,heroku,bootstrap,git,github" />
+  </a>
+</p>
 
 
 <!--
