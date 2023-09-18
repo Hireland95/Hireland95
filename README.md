@@ -1,8 +1,8 @@
-![Hello!](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+**👋 Hello**
 
 I'm a recent Le Wagon Web-Development graduate looking for a junior developer role 🚀
 
-**Languages & Tools** 
+**🧰 Languages & Tools I've learnt & used** 
 
 <p align="left">
   <a href="https://skillicons.dev">
