@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 **Hello** 👋 
 
 I'm a recent Le Wagon Web-Development graduate looking for a junior developer role 🚀
@@ -10,7 +12,7 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
   </a>
 </p>
 
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hireland95&show_icons=true&theme=radical)
+
 
 
 
