@@ -1,4 +1,11 @@
-### Hi there 👋
+**Hello** 👋 
+
+Recent Le Wagon Web-Development graduate looking for a junior developer role 🚀
+
+**Languages & Tools** 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,figma,heroku,bootstratp,github)](https://skillicons.dev)
+
 
 <!--
 **Hireland95/Hireland95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
