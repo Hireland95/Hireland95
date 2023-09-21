@@ -11,7 +11,7 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 </p>
 
 <details>
-<summary>Want to ruin the surprise?</summary>
+<summary> .. </summary>
 <br>
 Well, you asked for it!
 </details>
