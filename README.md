@@ -35,6 +35,18 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
  https://github.com/Hireland95/Hireland95/assets/138002221/2b06952b-8e99-4ea8-a48b-504f4bc81250
 
+2️⃣ **🛶 Boatel** 
+
+🏝️ AirBnb clone created for boat rentals which allows users to add their own boats & also reserve boats for upcoming trips
+
+🎬 Screen recording below to see user journey 
+
+https://github.com/Hireland95/Hireland95/assets/138002221/2c6ddda1-2537-4c07-8782-7d01aaf0b594
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hireland95)](https://github.com/Hireland95/github-readme-stats)
+
+
+
 
 
 
