@@ -12,7 +12,7 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
  **👨‍💻 Key projects I have been working on**
 
-                                          #⚽️ FPLBOT
+                                          # ⚽️ FPLBOT
 Fantasy Premier Leauge insights tool. Designed to help players make better informed transfer decisions throughout the 2022/2023 season. 
 
    Unlock your Fantasy Premier League potential 👉👉👉 www.fplbot.co.uk 👈👈👈
