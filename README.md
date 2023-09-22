@@ -43,7 +43,6 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
 https://github.com/Hireland95/Hireland95/assets/138002221/2c6ddda1-2537-4c07-8782-7d01aaf0b594
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hireland95)](https://github.com/Hireland95/github-readme-stats)
 
 
 
