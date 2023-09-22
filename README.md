@@ -27,11 +27,9 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 </details>
 
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
 
-
-![FPLBOTLogo](https://github.com/Hireland95/Hireland95/assets/138002221/23dd1546-c461-43c4-8f9e-f84b0363150e)
+<a href="www.fplbot.co.uk">![FPLBOTLogo](https://github.com/Hireland95/Hireland95/assets/138002221/23dd1546-c461-43c4-8f9e-f84b0363150e)</a>
 
  https://github.com/Hireland95/Hireland95/assets/138002221/2b06952b-8e99-4ea8-a48b-504f4bc81250
 
