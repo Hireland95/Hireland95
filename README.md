@@ -35,11 +35,12 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
 </details>
 
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
+<br />
+  <br />
+  <br />
+  <br />
+  <br />
+  
  https://github.com/Hireland95/Hireland95/assets/138002221/2b06952b-8e99-4ea8-a48b-504f4bc81250
 
 
