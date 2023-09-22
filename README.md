@@ -2,7 +2,7 @@
 
 I'm a recent Le Wagon Web-Development graduate looking for a junior developer role 🚀
 
-**🧰 Languages & Tools I've learnt & used**
+**🧰 Languages & Tools**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -10,9 +10,9 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
   </a>
 </p>
 
-**👨‍💻 Key projects I have been working on**
+**👨‍💻 Key projects**
  
-# ⚽️ FPLBOT
+**⚽️ FPLBOT**
                                            
 ⭐️ Fantasy Premier Leauge insights tool. Designed to help players make better informed transfer decisions throughout the 2022/2023 season. 
 
@@ -25,11 +25,11 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 <summary> 📊 <strong>Project details</strong>  </summary>
 <br>
 
-     💻 FPLBOT regularly pulls data from 2 of the Fantasy Premier League's API's & pushes through our model to provide up to date player recommendations
+💻 FPLBOT regularly pulls data from 2 of the Fantasy Premier League's API's & pushes through our model to provide up to date player recommendations
     
-     🔄 Through automated background jobs FLPBOT processes multiple data points on over 600 players and 10 fixtures each weekend 
+🔄 Through automated background jobs FLPBOT processes multiple data points on over 600 players and 10 fixtures each weekend 
 
-     📈 Players are able to filter FPLBOT's trasfer suggestions by fixture difficulty, position & price 
+📈 Players are able to filter FPLBOT's trasfer suggestions by fixture difficulty, position & price 
 
 </details>
 
