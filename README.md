@@ -34,6 +34,7 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 📈 Players are able to filter FPLBOT's trasfer suggestions by fixture difficulty, position & price 
 
 </details>  
+
  https://github.com/Hireland95/Hireland95/assets/138002221/2b06952b-8e99-4ea8-a48b-504f4bc81250
 
 
