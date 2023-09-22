@@ -12,10 +12,15 @@ I'm a recent Le Wagon Web-Development graduate looking for a junior developer ro
 
  **👨‍💻 Key projects I have been working on**
 
-⚽️ FPLBOT - Fantasy Premier Leauge insights tool. Designed to help players make better informed transfer decisions throughout the 2022/2023 season. 
-   Unlock your Fantasy Premier League potential 👉 
+                                          <h1>⚽️ **FPLBOT** </h1>
+Fantasy Premier Leauge insights tool. Designed to help players make better informed transfer decisions throughout the 2022/2023 season. 
+
+   Unlock your Fantasy Premier League potential 👉👉👉 www.fplbot.co.uk 👈👈👈
    
-<img src="https://github.com/Hireland95/Hireland95/assets/138002221/23dd1546-c461-43c4-8f9e-f84b0363150e" width="100" height="100">
+   (If you do not currently play FPL then below is a screen recording so you can see the user journey 😎)
+   
+
+
 
  https://github.com/Hireland95/Hireland95/assets/138002221/2b06952b-8e99-4ea8-a48b-504f4bc81250
 
