@@ -1,6 +1,6 @@
 **👋 Hello**
 
-I'm a recent Le Wagon Web-Development graduate looking for a junior developer role 🚀
+I'm a recent Le Wagon Web-Development bootcamp graduate & teaching assistant looking for a junior developer role 🚀
 
 **🧰 Languages & Tools**
 
