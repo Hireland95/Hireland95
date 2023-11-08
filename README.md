@@ -10,10 +10,6 @@ I'm a recent Le Wagon Web-Development bootcamp graduate & teaching assistant loo
   </a>
 </p>
 
-[Portfolio](https://hireland95.github.io/profile)
+Please visit my [portfolio](https://hireland95.github.io/profile) in order to learn more about me and see the full-stack web-applications I have built 😎
 
-
-
-
-
-
+Thanks! ⭐️
